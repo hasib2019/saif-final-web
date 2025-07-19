@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
+  <!-- Main 'D' letter -->
+  <path d="M40,20 C60,20 75,30 75,50 C75,70 60,80 40,80 L20,80 L20,20 L40,20 Z" fill="#4a9c2e" />
+  
+  <!-- Curved element representing the 'D' extension -->
+  <path d="M40,25 C55,25 65,35 65,50 C65,65 55,75 40,75 L30,75 L30,25 L40,25 Z" fill="#ffffff" />
+  
+  <!-- Inner 'D' shape -->
+  <path d="M40,30 C50,30 60,38 60,50 C60,62 50,70 40,70 L35,70 L35,30 L40,30 Z" fill="#4a9c2e" />
+  
+  <!-- Leaf elements -->
+  <path d="M20,20 C15,15 10,18 15,25 L20,20 Z" fill="#4a9c2e" />
+  <path d="M75,50 C80,45 85,48 80,55 L75,50 Z" fill="#4a9c2e" />
+  
+  <!-- Text 'DEROWN' -->
+  <text x="20" y="95" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#4a9c2e">DEROWN</text>
+  
+  <!-- Tagline -->
+  <text x="100" y="95" font-family="Arial, sans-serif" font-style="italic" font-size="10" fill="#d35f2a">Built to Perform</text>
+</svg>
